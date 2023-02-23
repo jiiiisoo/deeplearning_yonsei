@@ -1,2 +1,2 @@
 # deeplearning_yonsei
-Projects I did in deeplearning class
+Projects I did in yonsei deeplearning class
